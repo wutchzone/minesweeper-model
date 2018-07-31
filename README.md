@@ -1,2 +1,2 @@
-# minesweeper-model
-A model for minesweeper game in Golang
+# Minesweeper model
+This project includes source code for worldwide known game Minesweeper.
